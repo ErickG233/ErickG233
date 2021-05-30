@@ -1,9 +1,12 @@
-### 睡觉，饮茶，YEAH!
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ErickG233&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
---能睡觉就别撑着
+### 睡觉，饮茶，YEAH!
+
+--基本上能跑起来我就不管了
+
 --Kang可以但是不要删信息
+
 --人蠢什么都不会，见谅
 
 <!--
