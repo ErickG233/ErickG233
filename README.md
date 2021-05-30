@@ -3,11 +3,11 @@
 
 ### 睡觉，饮茶，YEAH!
 
---基本上能跑起来我就不管了
+--睡觉睡觉
 
---Kang可以但是不要删信息
+--Sleep all the day
 
---人蠢什么都不会，见谅
+--ZZZZZZZZZZZ
 
 <!--
 **ErickG233/ErickG233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
